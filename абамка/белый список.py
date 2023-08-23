@@ -13,6 +13,7 @@ while request != '':
     request = input()
     answers.add(request)
 
+
 for answer in answers:
     if answer in white_list:
         print(answer)
