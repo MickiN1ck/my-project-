@@ -1,0 +1,12 @@
+a=str(input())
+
+b=a.replace('5','1')
+c=b.replace('6','1')
+d=c.replace('7','1')
+e=d.replace('8','1')
+f=e.replace('9','1')
+g=f.replace('1','0')
+h=g.replace('2','0')
+i=h.replace('3','0')
+j=i.replace('4','0')
+print(j)
